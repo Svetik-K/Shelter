@@ -1,2 +1,2 @@
 # Shelter
-https://svetik-k.github.io/shelter/shelter/pages/main/
+https://svetik-k.github.io/Shelter/shelter/pages/main/
